@@ -39,7 +39,7 @@ export default {
   },
   config: {
     aws: {
-      bucket: 'gobarber-cleiver',
+      bucket: 'gobarber-aws-bucket',
     },
   },
 } as IStorageConfiguration;

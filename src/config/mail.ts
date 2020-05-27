@@ -14,7 +14,7 @@ export default {
   defaults: {
     from: {
       name: 'Do Not Reply',
-      email: 'no-reply@cleiver.me',
+      email: 'no-reply@domain.me',
     },
   },
 } as IMailConfiguration;
